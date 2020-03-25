@@ -1,7 +1,7 @@
 # codesamples-python3-imports-nasa-public-api-parser-bash
 Python 3, Imports module, NASA Public API parser with console interface
 # Description
-Non graphical edition of the 
+Non graphical edition of the https://github.com/giantpanda9/codesamples-python3-imports-nasa-public-api-parser-flask-mvc-mvt-interface projects
 # Purposes
 To demonstrate ability to integrate APIs on Python 3 - to parse one of APIs from https://api.nasa.gov/
 # Requirements
